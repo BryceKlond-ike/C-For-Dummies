@@ -1,0 +1,18 @@
+CForDummies project 
+
+This folder lays out the exercises source code and .exe
+files. 
+
+CMDLETs
+
+gcc (file.c)	- compiles executable
+
+-Wall        	- allows warnings and alerts
+
+-o		- changes object filename
+		ex. "gcc -Wall file.c -o MyFile" compiles
+		    file.c to MyFile.exe
+
+.\		- Runs program when in directory
+
+	    
